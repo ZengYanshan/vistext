@@ -1,6 +1,7 @@
 # Project-specific
 data/images/*
 data/scenegraphs/*
+data/vl_spec/*
 data/intermediate/*
 data/L1gen/*
 
